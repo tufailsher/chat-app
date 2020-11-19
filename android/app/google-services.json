@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "837487054656",
+    "firebase_url": "https://chatapp-d205a.firebaseio.com",
+    "project_id": "chatapp-d205a",
+    "storage_bucket": "chatapp-d205a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837487054656:android:690c5b34febf115e8874a5",
+        "android_client_info": {
+          "package_name": "com.tufail.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837487054656-ckhlukrkl4enocpc5ojn61tinq1u835n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA012Ez6F8n9J0PLSSNV4OzqalHeVCHo74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837487054656-ckhlukrkl4enocpc5ojn61tinq1u835n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
